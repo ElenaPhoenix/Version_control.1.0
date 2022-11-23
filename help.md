@@ -241,3 +241,5 @@ reset начать всё с чистого листа
 * https://t.me/iksergeyru/6
 
 * https://smartiqa.ru/courses/git/lesson-5
+
+* https://gb.ru/posts/soveti-pro-git
