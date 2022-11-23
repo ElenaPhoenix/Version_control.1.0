@@ -232,14 +232,14 @@ reset начать всё с чистого листа
 
 # <span style="color:red">**Полезные ссылки**
 
-* Git-тренажер https://learngitbranching.js.org/?locale=ru_RU
+* Git-тренажер <https://learngitbranching.js.org/?locale=ru_RU>
 
-* https://vimeo.com/showcase/5616060
+* <https://vimeo.com/showcase/5616060>
 
-* https://www.atlassian.com/ru/git/tutorials/undoing-changes
+* <https://www.atlassian.com/ru/git/tutorials/undoing-changes>
 
-* https://t.me/iksergeyru/6
+* <https://t.me/iksergeyru/6>
 
-* https://smartiqa.ru/courses/git/lesson-5
+* <https://smartiqa.ru/courses/git/lesson-5>
 
-* https://gb.ru/posts/soveti-pro-git
+* <https://gb.ru/posts/soveti-pro-git>
