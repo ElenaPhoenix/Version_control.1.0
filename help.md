@@ -149,11 +149,29 @@ reset начать всё с чистого листа
 
 Вывод команды выглядит примерно так: <tag>_<numCommits>_g<hash>, где tag – это ближайший тег в истории изменений, numCommits – это на сколько далеко мы от этого тега, а hash – это хеш коммита, который описывается (точка отсчета).
 
+* <span style="color:green">**git tag <ref>**</span> - просмотр текущего тега
+
+* <span style="color:green">**git tag --list <ref>**</span> - просмотр списка тегов
+
+* <span style="color:green">**git push --tags <ref>**</span> - запушить теги на гитхаб(на гитхабе версии/теги будут в релизах)
+
+* <span style="color:green">**git tag -d название_тега <ref>**</span> - удалить тег
+
+* <span style="color:green">**git push --delete origin(название_ветки) название_тега <ref>**</span> - удалить тег на гитхабе
+
 * <span style="color:green">**git bisect**</span>
 
 
 # show commands покажет все доступные инструкции. Там есть очень полезные, например undo и reset
 А пока просто начни игру при помощи levels
+
+* <span style="color:green">**git stash**</span> -выгрузка изменений во временное хранилище(чтобы не коммитить изменения и не потерять их)
+
+* <span style="color:green">**git stash list**</span> - список стешей
+
+* <span style="color:green">**git stash push название_файла**</span> - добавить файл в стеш
+
+* <span style="color:green">**git stash pop название_стеша**</span> - выгрузка стеша в ветку
 
 ## <span style="color:red">**Синтаксис языка Markdown**
 
@@ -243,3 +261,17 @@ reset начать всё с чистого листа
 * <https://smartiqa.ru/courses/git/lesson-5>
 
 * <https://gb.ru/posts/soveti-pro-git>
+
+* https://githowto.com/ru - самоучитель Git
+
+* https://gb.ru/posts/github-rabota-s-vetkami-i-kommitami
+
+* https://git-scm.com/book/ru/v2 - руководство по Git
+
+* https://gb.ru/posts/kak-ustroen-i-rabotaet-github
+
+* https://git-scm.com/docs документация
+
+* https://gb.ru/posts/github-nastrojka-i-pervaya-publikaciya-proekta
+
+* https://education.github.com/git-cheat-sheet-education.pdf - шпаргалка Git
